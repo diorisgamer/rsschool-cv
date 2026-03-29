@@ -14,6 +14,7 @@ My goal is to become a strong developer and work on real-world projects.
 - Python
 - Git, Git-hub
 - HTML , CSS
+- VS code
 
 ## Code Example
 ```python
@@ -44,4 +45,4 @@ print(f'Your password is: {password}')
 - RS School (in progress)
 
 ## English 
-- Level B2 (upper-intermediate) 
+- Level B2 (upper-intermediate)   
