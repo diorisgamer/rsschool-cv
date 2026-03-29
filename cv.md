@@ -45,4 +45,4 @@ print(f'Your password is: {password}')
 - RS School (in progress)
 
 ## English 
-- Level B2 (upper-intermediate)   
+- Level B2 (reading docs, basic communication)
