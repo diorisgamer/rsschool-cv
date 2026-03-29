@@ -10,7 +10,7 @@ I am a beginner Python developer focused on backend development.
 I enjoy building simple applications and learning new technologies. 
 My goal is to become a strong developer and work on real-world projects.
 
-## Skils
+## Skils 
 - Python
 - Git, Git-hub
 - HTML , CSS
@@ -20,7 +20,7 @@ My goal is to become a strong developer and work on real-world projects.
 ```python
 import secrets
 
-letters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()-=+'
+letters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()-=+/'
 
 print("Welcome to password generator")
 
