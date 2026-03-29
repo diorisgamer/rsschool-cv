@@ -1,1 +1,2 @@
 # rsschool-cv
+- https://diorisgamer.github.io/rsschool-cv/
