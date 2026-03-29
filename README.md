@@ -1,2 +1,2 @@
 # rsschool-cv
-- htpps://diorisgamer.github.io/rsschool-cv/cv
+- https://diorisgamer.github.io/rsschool-cv/cv 

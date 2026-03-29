@@ -1,7 +1,7 @@
 # Diyorbek Bahodirov
 
 ## Contacts
-- Git-hub: htpps://github.com/diorisgamer
+- Git-hub: https://github.com/diorisgamer
 - E-mail: diyorbakbahadirov2010@gmail.com
 - Discord: diorisgamer
 
